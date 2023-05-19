@@ -7,6 +7,7 @@
 * [lorem ipsum](group-1/lorem-ipsum.md)
 * [RPC](group-1/rpc.md)
 
-## Group 2
+## Group 0
 
-* [Page 1](group-2/page-1.md)
+* [Glossary](group-0/glossary.md)
+* [Page 1](group-0/page-1.md)
