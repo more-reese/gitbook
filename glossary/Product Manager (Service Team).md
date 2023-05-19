@@ -1,0 +1,2 @@
+- [[Service Team Seat]]
+- If applicable, evaluate the tech needs of each business line and coordinate with [[Product Leadership]] and [[Product Manager]]s

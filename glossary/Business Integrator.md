@@ -1,0 +1,4 @@
+- [[Service Team Seat]]
+- Helps align the team and push forward various separate workstreams
+- Monitors progress, tracks, and resolves roadblocks
+- Key business partner to the business leader in scoping out the service offering
