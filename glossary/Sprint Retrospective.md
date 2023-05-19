@@ -1,1 +1,0 @@
-**Sprint Retrospective** - the purpose is to plan ways to increase quality and effectiveness. The team inspects how the last Sprint went with regard to individuals, interactions, processes, tools and their Definition of Done. 

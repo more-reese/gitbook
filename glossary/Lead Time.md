@@ -1,1 +1,0 @@
-Measures the time elapsed from the point a piece of work is requested (typically from a customer) to the point it is delivered

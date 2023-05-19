@@ -1,1 +1,0 @@
-**Sprint Review** - the purpose is to inspect the outcome of the Sprint and determine future adaptations. The team presents their work and the overall progress towards the Product Goal to key stakeholders. 

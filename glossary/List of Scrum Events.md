@@ -1,6 +1,0 @@
-- [[Sprint]]
-- [[Backlog Refinement]]
-- [[Sprint Planning]]
-- [[Daily Scrum]]
-- [[Sprint Review]] 
-- [[Sprint Retrospective]]

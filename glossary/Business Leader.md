@@ -1,3 +1,0 @@
-- [[Service Team Seat]]
-- Sets the vision for the business
-- Defines the scope of the service for the intial go-to-market offering as well as build the broader, long(er) term roadmap

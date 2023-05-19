@@ -1,4 +1,0 @@
-- [[Service Team Seat]]
-- Provides customer feedback/POC as the service is being built to help determin key features required
-- Lines up first beta customers
-- Once live in the market, sources leads and sells the service

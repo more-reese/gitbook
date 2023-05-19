@@ -1,1 +1,0 @@
-Measures the amount of work a team can tackle during a [[Sprint]]

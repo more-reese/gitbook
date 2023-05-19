@@ -1,4 +1,0 @@
-- [[Service Team Seat]]
-- Responsible for building and managing the team the delivers the service
-- Define tools (hardware an/or software) needed to deliver the service effectively
-- If software needs, product manager will be assigned

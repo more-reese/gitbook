@@ -1,5 +1,0 @@
-- [[Deployment Frequency]]
-- [[Cycle Time]]
-- [[Lead Time for Change]]
-- [[Mean Time to Resolution]]
-- [[Change Failure Rate]]

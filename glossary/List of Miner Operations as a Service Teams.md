@@ -1,7 +1,0 @@
-- [[Fleet Management Team]]
-- [[Site Management Team]]
-- [[Repair Team]]
-- [[Spare Parts Procurement Team]]
-- [[Deploy Team]]
-- [[Logistics Team]]
-- [[FoundryX Team]]

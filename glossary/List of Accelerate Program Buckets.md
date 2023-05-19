@@ -1,5 +1,0 @@
-- [[Continuous Delivery]]
-- [[Architecture]]
-- [[Product & Process]]
-- [[Lean Practices]]
-- [[Culture]]
